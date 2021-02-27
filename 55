@@ -1,1 +1,2124 @@
-http://s1.mainevents.icu:8000/get.php?username=239021AM4884820&password=47212021AM4784345&type=m3u_plus&output=ts
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="SPORTS-NIFL Premiership",NIFL 01:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2438.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS-NIFL Premiership",NIFL 02:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2439.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS-NIFL Premiership",NIFL 03:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2440.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS-NIFL Premiership",NIFL 04:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2441.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS-NIFL Premiership",NIFL 05:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2442.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS-NIFL Premiership",NIFL 06:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2443.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS-NIFL Premiership",NIFL 07:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2444.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS-NIFL Premiership",NIFL 08:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2445.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS-NIFL Premiership",NIFL 09:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2446.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS-NIFL Premiership",NIFL 10:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2447.ts
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FOOTBALL CLUBS",UK FHD : LFC TV
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1623.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FOOTBALL CLUBS",UK HD : LFC TV
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1624.ts
+#EXTINF:0 tvg-id="LiverpoolFCTV.uk" group-title="SPORTS - FOOTBALL CLUBS",UK SD : LFC TV
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1625.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FOOTBALL CLUBS",IT SD : Juventus TV
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1626.ts
+#EXTINF:0 tvg-id="MUTV.uk" group-title="SPORTS - FOOTBALL CLUBS",UK SD : MUTV
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1627.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FOOTBALL CLUBS",Chelsea FC TV
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1628.ts
+#EXTINF:0 tvg-id="RealMadridTV.es" group-title="SPORTS - FOOTBALL CLUBS",Real Madrid TV
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1629.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FOOTBALL CLUBS",Ross County TV (Live On Matchday)
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1630.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FOOTBALL CLUBS",Rangers TV (Live On Matchday)
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1631.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FOOTBALL CLUBS",Livingston FC TV (Live On Matchday)
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1632.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FOOTBALL CLUBS",Hibernian TV (Live On Matchday)
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1633.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FOOTBALL CLUBS",Hamilton TV (Live On Matchday)
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1634.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FOOTBALL CLUBS",Dunfermline TV (Live On Matchday)
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1635.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FOOTBALL CLUBS",Kilmarnock FC (Live Matches)
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1636.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FOOTBALL CLUBS",ST Mirren FC (Live Matches)
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1637.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FOOTBALL CLUBS",ST Johnstone FC (Live Matches)
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1638.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FOOTBALL CLUBS",Raith Rovers FC (Live Matches)
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1639.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FOOTBALL CLUBS",Motherwell FC (Live Matches)
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1640.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FOOTBALL CLUBS",Hibs TV (Live Matches)
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1641.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FOOTBALL CLUBS",Hibs TV (Live Matches)
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1642.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FOOTBALL CLUBS",Hearts FC (Live Matches)
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1643.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FOOTBALL CLUBS",Falkirk TV (Live Matches)
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1644.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FOOTBALL CLUBS",Rotherham TV (Live Matches)
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1645.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FOOTBALL CLUBS",Dundee Utd (Live Matches)
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1646.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FOOTBALL CLUBS",Dundee FC (Live Matches)
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1647.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FOOTBALL CLUBS",Aberdeen TV (Live Matches)
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1648.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FOOTBALL CLUBS",Celtic FC TV (Live Matches)
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1649.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FOOTBALL CLUBS",Rangers FC TV (Live Matches)
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1650.ts
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FLO SPORTS",Flo 1: FloWrestling 24/7
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1852.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FLO SPORTS",Flo 2: FloRacing 24/7
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1853.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FLO SPORTS",Flo 3:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1854.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FLO SPORTS",Flo 4:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1855.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FLO SPORTS",Flo 5:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1856.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FLO SPORTS",Flo 6:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1857.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FLO SPORTS",Flo 7:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1858.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FLO SPORTS",Flo 8:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1859.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FLO SPORTS",Flo 9:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1860.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FLO SPORTS",Flo 10:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1861.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FLO SPORTS",Flo 11:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1862.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FLO SPORTS",Flo 12:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1863.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FLO SPORTS",Flo 13:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1864.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FLO SPORTS",Flo 14:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1865.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FLO SPORTS",Flo 15:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1866.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FLO SPORTS",Flo 16:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1867.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FLO SPORTS",Flo 17:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1868.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FLO SPORTS",Flo 18:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1869.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FLO SPORTS",Flo 19:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1870.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FLO SPORTS",Flo 20:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1871.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FLO SPORTS",Flo 21:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1872.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FLO SPORTS",Flo 22:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1873.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FLO SPORTS",Flo 23:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1874.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FLO SPORTS",Flo 24:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1875.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FLO SPORTS",Flo 25:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1876.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FLO SPORTS",Flo 26:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1877.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FLO SPORTS",Flo 27:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1878.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FLO SPORTS",Flo 28:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1879.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FLO SPORTS",Flo 29:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1880.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FLO SPORTS",Flo 30:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1881.ts
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - F1",f1-obc-01
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1329.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - F1",f1-obc-02
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1330.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - F1",f1-obc-03
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1331.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - F1",f1-obc-04
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1332.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - F1",f1-obc-05
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1333.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - F1",f1-obc-06
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1334.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - F1",f1-obc-07
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1335.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - F1",f1-obc-08
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1336.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - F1",f1-obc-09
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1337.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - F1",f1-obc-10
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1338.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - F1",f1-obc-11
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1339.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - F1",f1-obc-12
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1340.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - F1",f1-obc-13
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1341.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - F1",f1-obc-14
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1342.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - F1",f1-obc-15
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1343.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - F1",f1-obc-16
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1344.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - F1",f1-obc-17
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1345.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - F1",f1-obc-18
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1346.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - F1",f1-obc-19
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1347.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - F1",f1-obc-20
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1348.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - F1",f1-pit
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1349.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - F1",f1-driver
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1350.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - F1",f1-data
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1351.ts
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - CA: DAZN SPORTS",Event DAZN CA 1 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1317.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - CA: DAZN SPORTS",Event DAZN CA 2 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1318.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - CA: DAZN SPORTS",Event DAZN CA 3 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1319.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - CA: DAZN SPORTS",Event DAZN CA 4 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1320.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - CA: DAZN SPORTS",Event DAZN CA 5 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1321.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - CA: DAZN SPORTS",Event DAZN CA 6 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1322.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - CA: DAZN SPORTS",Event DAZN CA 7 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1323.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - CA: DAZN SPORTS",Event DAZN CA 8 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1324.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - CA: DAZN SPORTS",Event DAZN CA 9 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1325.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - CA: DAZN SPORTS",Event DAZN CA 10 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1326.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - CA: DAZN SPORTS",Event DAZN CA 11 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1327.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - CA: DAZN SPORTS",Event DAZN CA 12 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1328.ts
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - SPFL",SPFL01:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/907.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - SPFL",SPFL02:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/908.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - SPFL",SPFL03:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/909.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - SPFL",SPFL04:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/910.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - SPFL",SPFL05:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/911.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - SPFL",SPFL06:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/912.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - SPFL",SPFL07:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/913.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - SPFL",SPFL08:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/914.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - SPFL",SPFL09:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/915.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - SPFL",SPFL10:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/916.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - SPFL",SPFL11:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2072.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - SPFL",SPFL12:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2073.ts
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - OPTUS SPORTS",Optus 1
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1367.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - OPTUS SPORTS",Optus 2
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1368.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - OPTUS SPORTS",Optus 3
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1369.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - OPTUS SPORTS",Optus 4
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1370.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - OPTUS SPORTS",Optus 5
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1371.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - OPTUS SPORTS",Optus 6
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1372.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - OPTUS SPORTS",Optus 7
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1373.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - OPTUS SPORTS",Optus 8
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1374.ts
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - MLS",MLS 01:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/263.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - MLS",MLS 02:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/264.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - MLS",MLS 03:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/265.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - MLS",MLS 04:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/266.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - MLS",MLS 05:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/267.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - MLS",MLS 06:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/268.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - MLS",MLS 07:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/269.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - MLS",MLS 08:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/270.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - MLS",MLS 09:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/271.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - MLS",MLS 10:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/272.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - MLS",MLS 11:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/273.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - MLS",MLS 12:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/274.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - MLS",MLS 13:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/275.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - MLS",MLS 14:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/276.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - MLS",MLS 15:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/277.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - MLS",MLS 16:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/278.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - MLS",MLS 17:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/279.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - MLS",MLS 18:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/280.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - MLS",MLS 19:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/281.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - MLS",MLS 20:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/282.ts
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS-SPARK SPORTS",SPARK 1
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1309.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS-SPARK SPORTS",SPARK 2
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1310.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS-SPARK SPORTS",SPARK 3
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1311.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS-SPARK SPORTS",SPARK 4
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1312.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS-SPARK SPORTS",SPARK 5
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1313.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS-SPARK SPORTS",SPARK 6
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1314.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS-SPARK SPORTS",SPARK 7
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1315.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS-SPARK SPORTS",SPARK 8
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1316.ts
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - WORLD EVENTS",WORLD SPORT 01:  Barcelona v Cadiz 1PM
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/542.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - WORLD EVENTS",WORLD SPORT 02: AC Milan v Inter Milan 2PM
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/543.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - WORLD EVENTS",WORLD SPORT 03:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/544.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - WORLD EVENTS",WORLD SPORT 04:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/545.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - WORLD EVENTS",WORLD SPORT 05:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/546.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - WORLD EVENTS",WORLD SPORT 06:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/547.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - WORLD EVENTS",WORLD SPORT 07:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/548.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - WORLD EVENTS",WORLD SPORT 08:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/549.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - WORLD EVENTS",WORLD SPORT 09:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/550.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - WORLD EVENTS",WORLD SPORT 10:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/551.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - WORLD EVENTS",WORLD SPORT 11:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/552.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - WORLD EVENTS",WORLD SPORT 12:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/553.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - WORLD EVENTS",WORLD SPORT 13:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/554.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - WORLD EVENTS",WORLD SPORT 14:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/555.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - WORLD EVENTS",WORLD SPORT 15:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/556.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - WORLD EVENTS",WORLD SPORT 16:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/557.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - WORLD EVENTS",WORLD SPORT 17:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/558.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - WORLD EVENTS",WORLD SPORT 18:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/559.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - WORLD EVENTS",WORLD SPORT 19:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/560.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - WORLD EVENTS",WORLD SPORT 20:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/561.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - WORLD EVENTS",WORLD SPORT 21:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/562.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - WORLD EVENTS",WORLD SPORT 22:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/563.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - WORLD EVENTS",WORLD SPORT 23:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/564.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - WORLD EVENTS",WORLD SPORT 24:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/565.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - WORLD EVENTS",WORLD SPORT 25:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/566.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - WORLD EVENTS",WORLD SPORT 26:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/567.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - WORLD EVENTS",WORLD SPORT 27:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/568.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - WORLD EVENTS",WORLD SPORT 28:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/569.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - WORLD EVENTS",WORLD SPORT 29:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/570.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - WORLD EVENTS",WORLD SPORT 30:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/571.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - WORLD EVENTS",WORLD SPORT 31:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/572.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - WORLD EVENTS",WORLD SPORT 32:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/573.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - WORLD EVENTS",WORLD SPORT 33:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/574.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - WORLD EVENTS",WORLD SPORT 34:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/575.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - WORLD EVENTS",WORLD SPORT 35:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/576.ts
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - MOTOR",Motorsport 01:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/522.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - MOTOR",Motorsport 02:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/523.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - MOTOR",Motorsport 03:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/524.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - MOTOR",Motorsport 04:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/525.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - MOTOR",Motorsport 05:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/526.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - MOTOR",Motorsport 06:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/527.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - MOTOR",Motorsport 07:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/528.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - MOTOR",Motorsport 08:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/529.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - MOTOR",Motorsport 09:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/530.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - MOTOR",Motorsport 10:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/531.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - MOTOR",Motorsport 11:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/532.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - MOTOR",Motorsport 12:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/533.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - MOTOR",Motorsport 13:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/534.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - MOTOR",Motorsport 14:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/535.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - MOTOR",Motorsport 15:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/536.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - MOTOR",Motorsport 16:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/537.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - MOTOR",Motorsport 17:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/538.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - MOTOR",Motorsport 18:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/539.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - MOTOR",Motorsport 19:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/540.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - MOTOR",Motorsport 20:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/541.ts
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAF",NCAAF 1:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1117.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAF",NCAAF 2:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1118.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAF",NCAAF 3:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1119.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAF",NCAAF 4:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1120.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAF",NCAAF 5:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1121.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAF",NCAAF 6:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1122.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAF",NCAAF 7:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1123.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAF",NCAAF 8:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1124.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAF",NCAAF 9:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1125.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAF",NCAAF 10:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1126.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAF",NCAAF 11:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1127.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAF",NCAAF 12:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1128.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAF",NCAAF 13:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1129.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAF",NCAAF 14:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1130.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAF",NCAAF 15:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1131.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAF",NCAAF 16:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1132.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAF",NCAAF 17:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1133.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAF",NCAAF 18:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1134.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAF",NCAAF 19:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1135.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAF",NCAAF 20:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1136.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAF",NCAAF 21:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1137.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAF",NCAAF 22:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1138.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAF",NCAAF 23:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1139.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAF",NCAAF 24:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1140.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAF",NCAAF 25:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1141.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAF",NCAAF 26:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1142.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAF",NCAAF 27:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1143.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAF",NCAAF 28:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1144.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAF",NCAAF 29:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1145.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAF",NCAAF 30:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1409.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAF",NCAAF 31:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1410.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAF",NCAAF 32:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1411.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAF",NCAAF 33:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1412.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAF",NCAAF 34:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1413.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAF",NCAAF 35:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1414.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAF",NCAAF 36:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1415.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAF",NCAAF 37:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1416.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAF",NCAAF 38:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1417.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAF",NCAAF 39:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1418.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAF",NCAAF 40:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1419.ts
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL 01:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/832.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/833.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/834.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/835.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/836.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/837.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/838.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/839.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/840.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL-Texans SD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/841.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL-Texans HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/842.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL-Texans FHD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/843.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL-Steelers SD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/844.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL-Steelers HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/845.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL-Steelers FHD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/846.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL-Seahawks SD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/847.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL-Seahawks HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/848.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL-Seahawks FHD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/849.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL-Saints SD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/850.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL-Saints HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/851.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",Use SD and HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/852.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL-Redskins SD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/853.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL-Redskins HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/854.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL-Redskins FHD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/855.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL-Ravens SD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/856.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL-Ravens HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/857.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL-Ravens FHD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/858.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL-Rams SD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/859.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL-Rams HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/860.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL-Rams FHD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/861.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL-Raiders SD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/862.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL-Raiders HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/863.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL-Raiders FHD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/864.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL-Panthers SD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/865.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL-Panthers HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/866.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL-Panthers FHD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/867.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL-Packers SD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1981.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL-Packers HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1982.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL-Packers FHD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1983.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL-Lions SD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1984.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL-Lions HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1985.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL-Lions FHD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1986.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL-Jets SD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1987.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL-Jets HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1988.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL-Jets FHD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1989.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL-Jaguars SD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1990.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL-Jaguars HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1991.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL-Jaguars FHD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1992.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL-Falcons SD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1993.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL-Falcons HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1994.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL-Falcons FHD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1995.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL-Giants SD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1996.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL-Giants HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1997.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL-Giants FHD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1998.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL-Eagles SD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1999.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL-Eagles HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2000.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL-Eagles FHD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2001.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL-Dolphins SD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2002.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL-Dolphins HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2003.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL-Dolphins FHD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2004.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL-Cowboys SD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2005.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL-Cowboys HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2006.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL-Cowboys FHD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2007.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL-Colts SD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2008.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL-Colts HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2009.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL-Colts FHD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2010.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL-Chiefs SD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2011.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL-Chiefs HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2012.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL-Chiefs FHD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2013.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL-Chargers SD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2014.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL-Chargers HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2015.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL-Chargers FHD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2016.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL-Cardinals SD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2017.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL-Cardinals HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2018.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL-Cardinals FHD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2019.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL-Buccaneers SD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2020.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL-Buccaneers HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2021.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL-Buccaneers FHD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2022.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL-Browns SD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2023.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL-Browns HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2024.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL-Browns FHD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2025.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL-Broncos SD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2026.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL-Broncos HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2027.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL-Broncos FHD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2028.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL-Bills SD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2029.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL-Bills HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2030.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL-Bills FHD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2031.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL-Bengals SD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2032.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL-Bengals HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2033.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL-Bengals FHD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2034.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL-Bears SD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2035.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL-Bears HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2036.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL-Bears FHD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2037.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL-49ers SD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2038.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL-49ers HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2039.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL-49ers FHD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2040.ts
+#EXTINF:0 tvg-id="NFLNetworkHD.mx" group-title="SPORTS - NFL",NFL NETWORK HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2041.ts
+#EXTINF:0 tvg-id="NFLNetwork.mx" group-title="SPORTS - NFL",NFL NETWORK
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2042.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL RedZone
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2043.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL RedZone
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2044.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL RedZone
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2045.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL RedZone (Lower)
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2046.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL_Network SD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2047.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL Network HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2048.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL Network
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2049.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL Network HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2050.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL Network
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2051.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",CA NFL Network HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2052.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",CA NFL Network HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2053.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL Network-Alt
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2054.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL Game Pass 1 (D)
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2055.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL Game Pass 2 (D)
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2056.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL Game Pass 3 (D)
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2057.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL Game Pass 4 (D)
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2058.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL Game Pass 5 (D)
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2059.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL Game Pass 6 (D)
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2060.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL Game Pass 7 (D)
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2061.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL Game Pass 8 (D)
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2062.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL Game Pass 9 (D)
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2063.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL Game Pass 10 (D)
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2064.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL Game Pass 11 (D)
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2065.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL Game Pass 12 (D)
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2066.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL Game Pass 13 (D)
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2067.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL Game Pass 14 (D)
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2068.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL Game Pass 15 (D)
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2069.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NFL",US NFL Game Pass 16 (D)
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2070.ts
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NHL TEAM",US NHL Network
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/462.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NHL TEAM",US NHL Network
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/463.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NHL TEAM",US NHL Alternate
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/464.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NHL TEAM",US NHL Arizona Coyotes
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/465.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NHL TEAM",US NHL Vegas Golden Knights
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/468.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NHL TEAM",US NHL Dallas Stars
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/471.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NHL TEAM",US NHL Buffalo Sabres
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/474.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NHL TEAM",US NHL Boston Bruins
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/477.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NHL TEAM",US NHL Los Angeles Kings
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/480.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NHL TEAM",US NHL Calgary Flames
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2081.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NHL TEAM",US NHL Philadelphia Flyers
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2084.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NHL TEAM",US NHL Winnipeg Jets
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2087.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NHL TEAM",US NHL Florida Panthers
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2090.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NHL TEAM",US NHL Pittsburgh Penguins
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2093.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NHL TEAM",US NHL New Jersey Devils
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2096.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NHL TEAM",US NHL Anaheim Ducks
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2099.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NHL TEAM",US NHL San Jose Sharks
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2102.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NHL TEAM",US NHL Vancouver Canucks
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2105.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NHL TEAM",US NHL Edmonton Oilers
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2108.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NHL TEAM",US NHL St Louis Blues
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2111.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NHL TEAM",US NHL Nashville Predators
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2114.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NHL TEAM",US NHL Carolina Hurricanes
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2117.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NHL TEAM",US NHL Tampa Bay Lightning
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2120.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NHL TEAM",US NHL Montreal Canadiens
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2123.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NHL TEAM",US NHL Ottawa Senators
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2126.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NHL TEAM",US NHL Chicago Blackhawks
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2129.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NHL TEAM",US NHL Toronto Maple Leafs
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2132.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NHL TEAM",US NHL New York Rangers
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2135.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NHL TEAM",US NHL Minnesota Wild
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2138.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NHL TEAM",US NHL Columbus Blue Jackets
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2141.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NHL TEAM",US NHL New York Islanders
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2144.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NHL TEAM",US NHL Colorado Avalanche
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2147.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NHL TEAM",US NHL Detroit Red Wings
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2150.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NHL TEAM",US NHL Washington Capitals
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2153.ts
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS-FIXTURES LIST",24/7 FIXTURES LIST
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2161.ts
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - AFL",AFL 01:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/283.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - AFL",AFL 02:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/284.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - AFL",AFL 03:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/285.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - AFL",AFL 04:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/286.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - AFL",AFL 05:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/287.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - AFL",AFL 06:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/288.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - AFL",AFL 07:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/289.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - AFL",AFL 08:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/290.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - AFL",AFL 09:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/291.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - AFL",AFL10:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/292.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - AFL",AFL 11:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/293.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - AFL",AFL 12:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/294.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - AFL",AFL 13:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/295.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - AFL",AFL 14:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/296.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - AFL",AFL 15:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/297.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - AFL",AFL 16:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/298.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - AFL",AFL 17:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/299.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - AFL",AFL 18:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/300.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - AFL",AFL 19:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/301.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - AFL",AFL 20:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/302.ts
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NHL LIVE GAMES",US: NHL1: Philadelphia Flyers V Buffalo Sabres | 27th 1:00PM
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2257.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NHL LIVE GAMES",US: NHL2: Washington Capitals V New Jersey Devils | 27th 1:00PM
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2258.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NHL LIVE GAMES",US: NHL3: Calgary Flames V Ottawa Senators | 27th 1:00PM
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2259.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NHL LIVE GAMES",US: NHL4: Columbus Blue Jackets V Nashville Predators | 27th 3:00PM
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2260.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NHL LIVE GAMES",US: NHL5: Toronto Maple Leafs V Edmonton Oilers | 27th 7:00PM
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2261.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NHL LIVE GAMES",US: NHL6: Pittsburgh Penguins V New York Islanders | 27th 7:00PM
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2262.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NHL LIVE GAMES",US: NHL7: Dallas Stars V Tampa Bay Lightning | 27th 7:00PM
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2263.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NHL LIVE GAMES",US: NHL8: Carolina Hurricanes V Florida Panthers | 27th 7:00PM
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2264.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NHL LIVE GAMES",US: NHL9: Detroit Red Wings V Chicago Blackhawks | 27th 8:00PM
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2265.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NHL LIVE GAMES",US: NHL10: Los Angeles Kings V Minnesota Wild | 27th 8:00PM
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2266.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NHL LIVE GAMES",US: NHL11: Colorado Avalanche V Arizona Coyotes | 27th 9:00PM
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2267.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NHL LIVE GAMES",US: NHL12: Vegas Golden Knights V Anaheim Ducks | 27th 10:00PM
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2268.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NHL LIVE GAMES",US: NHL13:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2269.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NHL LIVE GAMES",US: NHL14:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2270.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NHL LIVE GAMES",US: NHL15:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2271.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NHL LIVE GAMES",US: NHL16:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2272.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NHL LIVE GAMES",US: NHL17:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2273.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NHL LIVE GAMES",US: NHL18:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2274.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NHL LIVE GAMES",US: NHL19:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2275.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NHL LIVE GAMES",US: NHL20:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2276.ts
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NRL",NRL 01: NRL 24/7
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/303.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NRL",NRL 02:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/304.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NRL",NRL 03:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/305.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NRL",NRL 04:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/306.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NRL",NRL 05:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/307.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NRL",NRL 06:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/308.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NRL",NRL 07:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/309.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NRL",NRL 08:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/310.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NRL",NRL 09:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/311.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NRL",NRL10:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/312.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NRL",NRL 11:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/313.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NRL",NRL 12:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/314.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NRL",NRL 13:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/315.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NRL",NRL 14:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/316.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NRL",NRL 15:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/317.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NRL",NRL 16:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/318.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NRL",NRL 17:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/319.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NRL",NRL 18:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/320.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NRL",NRL 19:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/321.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NRL",NRL 20:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/322.ts
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - MLB",MLB 02:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/103.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - MLB",MLB 03:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/104.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - MLB",MLB 04:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/105.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - MLB",MLB 05:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/106.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - MLB",MLB 06:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/107.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - MLB",MLB 07:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/108.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - MLB",MLB 08:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/109.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - MLB",MLB 09:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/110.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - MLB",MLB 10:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/111.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - MLB",MLB 11:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/112.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - MLB",MLB 12:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/113.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - MLB",MLB 13:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/114.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - MLB",MLB 14:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/115.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - MLB",MLB 15:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/116.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - MLB",MLB 16:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/117.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - MLB",MLB 17:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/118.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - MLB",MLB 18: MLB NETWORK | SD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/119.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - MLB",MLB 19: MLB NETWORK | HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/120.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - MLB",MLB 20: MLB NETWORK ALT | HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/121.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - MLB",MLB 01:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/102.ts
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - PPV 24/7",24/7 01: US: FOX NEWS
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/442.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - PPV 24/7",24/7 02: US: CNN NEWS
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/443.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - PPV 24/7",24/7 03: US: NEWSY
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/444.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - PPV 24/7",24/7 04: US: ONE AMERICAN NEWS NETWORK
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/445.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - PPV 24/7",24/7 05: US: UFC Fight Pass HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/446.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - PPV 24/7",24/7 06: US: UFC NIGHT PASS 24/7
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/447.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - PPV 24/7",24/7 07: US: WWE Network
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/448.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - PPV 24/7",24/7 08:  Covid Information
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/449.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - PPV 24/7",24/7 09: UFC.FIGHT NIGHT 185 Blaydes vs Lewis-Replay
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/450.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - PPV 24/7",24/7 10:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/451.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - PPV 24/7",24/7 11: NASA TV
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/452.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - PPV 24/7",24/7 12:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/453.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - PPV 24/7",24/7 13:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/454.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - PPV 24/7",24/7 14:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/455.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - PPV 24/7",24/7 15:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/456.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - PPV 24/7",24/7 16:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/457.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - PPV 24/7",24/7 17:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/458.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - PPV 24/7",24/7 18:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/459.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - PPV 24/7",24/7 19:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/460.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - PPV 24/7",24/7 20:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/461.ts
+
+#EXTINF:0 tvg-id="ext" group-title="Danger - not for sale",UK:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1150.ts
+#EXTINF:0 tvg-id="ext" group-title="Danger - not for sale",UK:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1151.ts
+#EXTINF:0 tvg-id="ext" group-title="Danger - not for sale",UK: Sky Replay SD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1463.ts
+#EXTINF:0 tvg-id="ext" group-title="Danger - not for sale",UK: Movie 24 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1469.ts
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - RPASS",RPASS 01:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/422.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - RPASS",RPASS 02:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/423.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - RPASS",RPASS 03:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/424.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - RPASS",RPASS 04:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/425.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - RPASS",RPASS 05:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/426.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - RPASS",RPASS 06:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/427.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - RPASS",RPASS 07:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/428.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - RPASS",RPASS 08:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/429.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - RPASS",RPASS 09:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/430.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - RPASS",RPASS 10:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/431.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - RPASS",RPASS 11:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/432.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - RPASS",RPASS 12:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/433.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - RPASS",RPASS 13:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/434.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - RPASS",RPASS 14:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/435.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - RPASS",RPASS 15:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/436.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - RPASS",RPASS 16:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/437.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - RPASS",RPASS 17:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/438.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - RPASS",RPASS 18:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/439.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - RPASS",RPASS 19:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/440.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - RPASS",RPASS 20:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/441.ts
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - GAA and IRISH SPORTS",IRE: GAA01:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1375.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - GAA and IRISH SPORTS",IRE: GAA02:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1376.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - GAA and IRISH SPORTS",IRE: GAA03:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1377.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - GAA and IRISH SPORTS",IRE: GAA04:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1378.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - GAA and IRISH SPORTS",IRE: GAA05:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1379.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - GAA and IRISH SPORTS",IRE: GAA06:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1380.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - GAA and IRISH SPORTS",IRE: GAA07:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1381.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - GAA and IRISH SPORTS",IRE: GAA08:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1382.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - GAA and IRISH SPORTS",IRE: GAA09:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1383.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - GAA and IRISH SPORTS",IRE: GAA10:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1384.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - GAA and IRISH SPORTS",IRE: GAA11:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1385.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - GAA and IRISH SPORTS",IRE: GAA12:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1386.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - GAA and IRISH SPORTS",IRE: GAA13:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1387.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - GAA and IRISH SPORTS",IRE: GAA14:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1388.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - GAA and IRISH SPORTS",IRE: GAA15:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1389.ts
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EPL",EPL 21:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1464.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EPL",EPL 22:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1465.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EPL",EPL 23:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1466.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EPL",EPL 24:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1467.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EPL",EPL 25:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1468.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EPL",EPL 01:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/383.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EPL",EPL 02:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/384.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EPL",EPL 03:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/385.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EPL",EPL 04:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/386.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EPL",EPL 05:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/387.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EPL",EPL 06:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/388.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EPL",EPL 07:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/389.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EPL",EPL 08:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/390.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EPL",EPL 09:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/391.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EPL",EPL 10:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/392.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EPL",EPL 11:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/393.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EPL",EPL 12:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/394.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EPL",EPL 13:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/395.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EPL",EPL 14:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/396.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EPL",EPL 15:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/397.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EPL",EPL 16:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/398.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EPL",EPL 17:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/399.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EPL",EPL 18:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/400.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EPL",EPL 19:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/401.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EPL",EPL 20:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/402.ts
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAM",NCAAB 01:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1470.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAM",NCAAB 02:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1471.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAM",NCAAB 03:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1472.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAM",NCAAB 04:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1473.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAM",NCAAB 05:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1474.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAM",NCAAB 06:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1475.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAM",NCAAB 07:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1476.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAM",NCAAB 08:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1477.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAM",NCAAB 09:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1478.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAM",NCAAB 11: VCU at Davidson (02.27-2PM ET)
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1479.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAM",NCAAB 12: Notre Dame at Boston College (02.27-2PM ET)
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1480.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAM",NCAAB 13: Rice at Louisiana Tech (02.27-2PM ET)
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1481.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAM",NCAAB 14: Marquette at UConn (02.27-2:30PM ET)
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1482.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAM",NCAAB 15: Oklahoma State at #7 Oklahoma (02.27-3PM ET)
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1483.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAM",NCAAB 16: Ole Miss at Vanderbilt (02.27-3:30PM ET)
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1484.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAM",NCAAB 17: Kansas State at #10 West Virginia (02.27-4PM ET)
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1485.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAM",NCAAB 18: #11 Florida State at North Carolina (02.27-4PM ET)
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1486.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAM",NCAAB 19: Wake Forest at #16 Virginia Tech (02.27-4PM ET)
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1487.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAM",NCAAB 20: Boise State at #22 San Diego State (02.27-4PM ET)
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1488.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAM",NCAAB 21: Oregon at California (02.27-4PM ET)
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1489.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAM",NCAAB 22: Temple at UCF (02.27-4PM ET)
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1490.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAM",NCAAB 23: Florida at Kentucky (02.27-4PM ET)
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1491.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAM",NCAAB 24: #13 Creighton at Xavier (02.27-5PM ET)
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1492.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAM",NCAAB 25: #6 Alabama at Mississippi State (02.27-6PM ET)
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1493.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAM",NCAAB 26: Southern Illinois at #21 Loyola Chicago (02.27-6PM ET)
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1494.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAM",NCAAB 27: Northern Iowa at Illinois State (02.27-6PM ET)
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1495.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAM",NCAAB 28: Louisville at Duke (02.27-6PM ET)
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1496.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAM",NCAAB 29: TCU at Iowa State (02.27-6PM ET)
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1497.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAM",NCAAB 30: Oregon State at Stanford (02.27-6:30PM ET)
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1498.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAM",NCAAB 31: Minnesota at Nebraska (02.27-7PM ET)
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1499.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAM",NCAAB 32: #2 Baylor at #17 Kansas (02.27-8PM ET)
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1500.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAM",NCAAB 33: #19 USC at Utah (02.27-8PM ET)
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1501.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAM",NCAAB 34:  North Carolina Central at North Carolina A&T (02.27-8PM ET)
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1502.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAM",NCAAB 35: Washington State at Arizona State (02.27-9PM ET)
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1503.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAM",NCAAM 36: Loyola Marymount at #1 Gonzaga (02.27-10PM ET)
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1504.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAM",NCAAM 37: Saint Mary's at BYU (02.27-10PM ET)
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1505.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAM",NCAAM 38: UCLA at Colorado (02.27-10PM ET)
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1506.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAM",NCAAM 39:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1507.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAM",NCAAM 40:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1508.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAM",NCAAM 41:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1509.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAM",NCAAM 42:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1510.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAM",NCAAM 43:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1511.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAM",NCAAM 44:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1512.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAM",NCAAM 45:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1513.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAM",NCAAM 46:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1514.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAM",NCAAM 47:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1515.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAM",NCAAM 48:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1516.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAM",NCAAM 49:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1517.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAM",NCAAM 50:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1518.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAM",NCAAM 51:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1519.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAM",NCAAM 52:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1520.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAM",NCAAM 53:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1521.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAM",NCAAM 54:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1522.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAM",NCAAM 55:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1523.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAM",NCAAM 56:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1524.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAM",NCAAM 57:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1525.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAM",NCAAM 58:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1526.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAM",NCAAM 59:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1527.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAM",NCAAM 60:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1528.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAM",NCAAM 61:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1529.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAM",NCAAM 62:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1530.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAM",NCAAM 63:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1531.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAM",NCAAM 64:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1532.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAM",NCAAM 65:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1533.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAM",NCAAM 66:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1534.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAM",NCAAM 67:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1535.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAM",NCAAM 68:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1536.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAM",NCAAM 69:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1537.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAM",NCAAM 70:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1538.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAM",NCAAM 71:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1539.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAM",NCAAM 72:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1540.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAM",NCAAM 73:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1541.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAM",NCAAM 74:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1542.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAM",NCAAM 75:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1543.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAM",NCAAM 76:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1544.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAM",NCAAM 77:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1545.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAM",NCAAM 78:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1546.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAM",NCAAM 79:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1547.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAM",NCAAM 80:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1548.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAM",NCAAM 81:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1549.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAM",NCAAM 82:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1550.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAM",NCAAM 83:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1551.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAM",NCAAM 84:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1552.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAM",NCAAM 85:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1553.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAM",NCAAM 86:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1554.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAM",NCAAM 87:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1555.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAM",NCAAM 88:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1556.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAM",NCAAM 89:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1557.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAM",NCAAM 90:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1558.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAM",NCAAM 91:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1559.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAM",NCAAM 92:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1560.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAM",NCAAM 93:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1561.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAM",NCAAM 94:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1562.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAM",NCAAM 95:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1563.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAM",NCAAM 96:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1564.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAM",NCAAM 97:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1565.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAM",NCAAM 98:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1566.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAM",NCAAM 99:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1567.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NCAAM",NCAAM 100:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1568.ts
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EFL CHAMPIONSHIP",EFLC 01:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/363.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EFL CHAMPIONSHIP",EFLC 02:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/364.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EFL CHAMPIONSHIP",EFLC 03:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/365.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EFL CHAMPIONSHIP",EFLC 04:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/366.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EFL CHAMPIONSHIP",EFLC 05:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/367.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EFL CHAMPIONSHIP",EFLC 06:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/368.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EFL CHAMPIONSHIP",EFLC 07:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/369.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EFL CHAMPIONSHIP",EFLC 08:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/370.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EFL CHAMPIONSHIP",EFLC 09:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/371.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EFL CHAMPIONSHIP",EFLC 10:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/372.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EFL CHAMPIONSHIP",EFLC 11:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/373.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EFL CHAMPIONSHIP",EFLC 12:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/374.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EFL CHAMPIONSHIP",EFLC 13:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/375.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EFL CHAMPIONSHIP",EFLC 14:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/376.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EFL CHAMPIONSHIP",EFLC 15:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/377.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EFL CHAMPIONSHIP",EFLC 16:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/378.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EFL CHAMPIONSHIP",EFLC 17:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/379.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EFL CHAMPIONSHIP",EFLC 18:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/380.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EFL CHAMPIONSHIP",EFLC 19:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/381.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EFL CHAMPIONSHIP",EFLC 20:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/382.ts
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FOOTBALL CUP GAMES",FOOT 01:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1581.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FOOTBALL CUP GAMES",FOOT 02:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1582.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FOOTBALL CUP GAMES",FOOT 03:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1583.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FOOTBALL CUP GAMES",FOOT 04:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1584.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FOOTBALL CUP GAMES",FOOT 05:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1585.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FOOTBALL CUP GAMES",FOOT 06:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1586.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FOOTBALL CUP GAMES",FOOT 07:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1587.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FOOTBALL CUP GAMES",FOOT 08:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1588.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FOOTBALL CUP GAMES",FOOT 09:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1589.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FOOTBALL CUP GAMES",FOOT 10:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1590.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FOOTBALL CUP GAMES",FOOT 11:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1591.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FOOTBALL CUP GAMES",FOOT 12:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1592.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FOOTBALL CUP GAMES",FOOT 13:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1593.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FOOTBALL CUP GAMES",FOOT 14:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1594.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FOOTBALL CUP GAMES",FOOT 15:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1595.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FOOTBALL CUP GAMES",FOOT 16:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1596.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FOOTBALL CUP GAMES",FOOT 17:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1597.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FOOTBALL CUP GAMES",FOOT 18:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1598.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FOOTBALL CUP GAMES",FOOT 19:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1599.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FOOTBALL CUP GAMES",FOOT 20:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1600.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FOOTBALL CUP GAMES",FOOT 21:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1601.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FOOTBALL CUP GAMES",FOOT 22:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1602.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FOOTBALL CUP GAMES",FOOT 23:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1603.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FOOTBALL CUP GAMES",FOOT 24:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1604.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FOOTBALL CUP GAMES",FOOT 25:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1605.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FOOTBALL CUP GAMES",FOOT 26:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1606.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FOOTBALL CUP GAMES",FOOT 27:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1607.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FOOTBALL CUP GAMES",FOOT 28:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1608.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FOOTBALL CUP GAMES",FOOT 29:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1609.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FOOTBALL CUP GAMES",FOOT 30:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1610.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FOOTBALL CUP GAMES",FOOT 31:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1611.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FOOTBALL CUP GAMES",FOOT 32:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1612.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FOOTBALL CUP GAMES",FOOT 33:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1613.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FOOTBALL CUP GAMES",FOOT 34:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1614.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FOOTBALL CUP GAMES",FOOT 35:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1615.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FOOTBALL CUP GAMES",FOOT 36:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1616.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FOOTBALL CUP GAMES",FOOT 37:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1617.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FOOTBALL CUP GAMES",FOOT 38:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1618.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FOOTBALL CUP GAMES",FOOT 39:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1619.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FOOTBALL CUP GAMES",FOOT 40:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1620.ts
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EFL LEAGUE ONE AND TWO",EFL 01:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/323.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EFL LEAGUE ONE AND TWO",EFL 02:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/324.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EFL LEAGUE ONE AND TWO",EFL 03:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/325.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EFL LEAGUE ONE AND TWO",EFL 04:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/326.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EFL LEAGUE ONE AND TWO",EFL 17:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/339.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EFL LEAGUE ONE AND TWO",EFL 18:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/340.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EFL LEAGUE ONE AND TWO",EFL 19:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/341.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EFL LEAGUE ONE AND TWO",EFL 20:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/342.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EFL LEAGUE ONE AND TWO",EFL 21:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/343.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EFL LEAGUE ONE AND TWO",EFL 22:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/344.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EFL LEAGUE ONE AND TWO",EFL 23:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/345.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EFL LEAGUE ONE AND TWO",EFL 24:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/346.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EFL LEAGUE ONE AND TWO",EFL 25:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/347.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EFL LEAGUE ONE AND TWO",EFL 26:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/348.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EFL LEAGUE ONE AND TWO",EFL 27:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/349.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EFL LEAGUE ONE AND TWO",EFL 28:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/350.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EFL LEAGUE ONE AND TWO",EFL 29:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/351.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EFL LEAGUE ONE AND TWO",EFL 30:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/352.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EFL LEAGUE ONE AND TWO",EFL 31:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/353.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EFL LEAGUE ONE AND TWO",EFL 32:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/354.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EFL LEAGUE ONE AND TWO",EFL 33:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/355.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EFL LEAGUE ONE AND TWO",EFL 34:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/356.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EFL LEAGUE ONE AND TWO",EFL 35:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/357.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EFL LEAGUE ONE AND TWO",EFL 36
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/358.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EFL LEAGUE ONE AND TWO",EFL 37
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/359.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EFL LEAGUE ONE AND TWO",EFL 38
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/360.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EFL LEAGUE ONE AND TWO",EFL 39
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/361.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EFL LEAGUE ONE AND TWO",EFL 40
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/362.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EFL LEAGUE ONE AND TWO",EFL 05:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/327.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EFL LEAGUE ONE AND TWO",EFL 06:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/328.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EFL LEAGUE ONE AND TWO",EFL 07:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/329.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EFL LEAGUE ONE AND TWO",EFL 08:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/330.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EFL LEAGUE ONE AND TWO",EFL 09:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/331.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EFL LEAGUE ONE AND TWO",EFL 10:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/332.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EFL LEAGUE ONE AND TWO",EFL 11:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/333.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EFL LEAGUE ONE AND TWO",EFL 12:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/334.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EFL LEAGUE ONE AND TWO",EFL 13:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/335.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EFL LEAGUE ONE AND TWO",EFL 14:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/336.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EFL LEAGUE ONE AND TWO",EFL 15:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/337.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EFL LEAGUE ONE AND TWO",EFL 16:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/338.ts
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FITE TV",Fite TV 00 HD: FITE 24/7 | Tue 17th 5:00PM
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1810.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FITE TV",Fite TV 02 HD: PWA: Just Happy to be Here | Sat 27th 8:00AM
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1812.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FITE TV",Fite TV 04 HD: Undisputed Promotion: Showtime | Sat 27th 9:00PM
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1814.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FITE TV",Fite TV 06 HD: Blunt Force Trauma 2 | Sun 28th 12:00AM
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1816.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FITE TV",Fite TV 08 HD:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1818.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FITE TV",Fite TV 10 HD:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1820.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FITE TV",Fite TV 12 HD:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1822.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FITE TV",Fite TV 14 HD:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1824.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FITE TV",Fite TV 16 HD:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1826.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FITE TV",Fite TV 18 HD:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1828.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FITE TV",Fite TV 01 HD: UFN 24 | Sat 27th 7:00AM
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1811.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FITE TV",Fite TV 03 HD: SENSHI 7: Menkovic vs Braun | Sat 27th 3:00PM
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1813.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FITE TV",Fite TV 05 HD: Nunez vs Avila | Sat 27th 11:00PM
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1815.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FITE TV",Fite TV 07 HD: DCS: Kearney Cage War 2021 | Sun 28th 12:30AM
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1817.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FITE TV",Fite TV 09 HD:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1819.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FITE TV",Fite TV 11 HD:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1821.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FITE TV",Fite TV 13 HD:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1823.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FITE TV",Fite TV 15 HD:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1825.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FITE TV",Fite TV 17 HD:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1827.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - FITE TV",Fite TV 19 HD:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1829.ts
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - B/R SPORTS",BR Event 1:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1882.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - B/R SPORTS",BR Event 2:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1883.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - B/R SPORTS",BR Event 3:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1884.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - B/R SPORTS",BR Event 4:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1885.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - B/R SPORTS",BR Event 5:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1886.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - B/R SPORTS",BR Event 6:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1887.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - B/R SPORTS",BR Event 7:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1888.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - B/R SPORTS",BR Event 8:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1889.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - B/R SPORTS",BR Event 9:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1890.ts
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - AUS SPORT",AU 04: RACING.COM
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/485.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - AUS SPORT",AU 05: FOX SPORTS 502
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/486.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - AUS SPORT",AU 06: FOX SPORTS 503
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/487.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - AUS SPORT",AU 07: FOX SPORT 504
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/488.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - AUS SPORT",AU 08: FOX SPORT 505
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/489.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - AUS SPORT",AU 09: FOX SPORT 506
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/490.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - AUS SPORT",AU 10: FOX SPORTS 507
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/491.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - AUS SPORT",AU 11: FOX SPORTS NEWS
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/492.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - AUS SPORT",AU 12: ESPN 1
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/493.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - AUS SPORT",AU 13: ESPN 2
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/494.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - AUS SPORT",AU 15: AU: beIN SPORTS 1
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/496.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - AUS SPORT",AU 16: AU: BeIN SPORTS 2
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/497.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - AUS SPORT",AU 17: AU: beIN SPORTS 3
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/498.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - AUS SPORT",AU 18: NRL 24/7
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/499.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - AUS SPORT",AU 19:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/500.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - AUS SPORT",AU 20:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/501.ts
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS- NOW SPORTS HK",NOW Sports 1 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2074.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS- NOW SPORTS HK",NOW Sports 2 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2075.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS- NOW SPORTS HK",NOW Sports 3 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2076.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS- NOW SPORTS HK",NOW Sports 4 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2077.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS- NOW SPORTS HK",NOW Sports 5 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2078.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS- NOW SPORTS HK",NOW Sports 6 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2079.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS- NOW SPORTS HK",NOW Sports 7 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2162.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS- NOW SPORTS HK",NOW Sports 8 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2163.ts
+
+#EXTINF:0 tvg-id="SkyBundesliga.de" group-title="SPORTS  - BUNDESLIGA",DE: Sky Bundesliga 1 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/872.ts
+#EXTINF:0 tvg-id="SkyBundesliga2.de" group-title="SPORTS  - BUNDESLIGA",DE: Sky Bundesliga 2 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/873.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS  - BUNDESLIGA",DE: Sky Bundesliga 2 HD (Backup 2)
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/874.ts
+#EXTINF:0 tvg-id="SkyBundesliga3.de" group-title="SPORTS  - BUNDESLIGA",DE: Sky Bundesliga 3 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/875.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS  - BUNDESLIGA",DE: Sky Bundesliga 3 HD(Backup 2)
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/876.ts
+#EXTINF:0 tvg-id="SkyBundesliga4.de" group-title="SPORTS  - BUNDESLIGA",DE: Sky BUNDESLIGA 4 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/877.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS  - BUNDESLIGA",DE: Sky Bundesliga 4 HD (Backup 2)
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/878.ts
+#EXTINF:0 tvg-id="SkyBundesliga5.de" group-title="SPORTS  - BUNDESLIGA",DE: Sky BUNDESLIGA 5 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/879.ts
+#EXTINF:0 tvg-id="SkyBundesliga6.de" group-title="SPORTS  - BUNDESLIGA",DE: Sky BUNDESLIGA 6 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/880.ts
+#EXTINF:0 tvg-id="SkyBundesliga7.de" group-title="SPORTS  - BUNDESLIGA",DE: Sky Bundesliga 7 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/881.ts
+#EXTINF:0 tvg-id="SkyBundesliga8.de" group-title="SPORTS  - BUNDESLIGA",DE: Sky BUNDESLIGA 8 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/882.ts
+#EXTINF:0 tvg-id="SkyBundesliga9.de" group-title="SPORTS  - BUNDESLIGA",DE: Sky BUNDESLIGA 9 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/883.ts
+#EXTINF:0 tvg-id="SkyBundesliga10.de" group-title="SPORTS  - BUNDESLIGA",DE: Sky Bundesliga 10 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/884.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS  - BUNDESLIGA",DE:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/885.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS  - BUNDESLIGA",DE:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/886.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS  - BUNDESLIGA",DE:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/887.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS  - BUNDESLIGA",DE:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/888.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS  - BUNDESLIGA",DE:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/889.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS  - BUNDESLIGA",DE:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/890.ts
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS-BEIN SPORTS",AR ||  Bein Sports 1 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1436.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS-BEIN SPORTS",AR ||  Bein Sports 2 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1437.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS-BEIN SPORTS",AR ||  Bein Sports 3 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1438.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS-BEIN SPORTS",AR ||  Bein Sports 4 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1439.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS-BEIN SPORTS",AR ||  Bein Sports 5 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1440.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS-BEIN SPORTS",AR ||  Bein Sports 6 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1441.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS-BEIN SPORTS",AR ||  Bein Sports 7 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1442.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS-BEIN SPORTS",AR ||  Bein Sports 8 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1443.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS-BEIN SPORTS",AR ||  Bein Sports 9 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1444.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS-BEIN SPORTS",AR ||  Bein Sports 10 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1445.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS-BEIN SPORTS",AR || Bein Sports 11 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1446.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS-BEIN SPORTS",AR ||  Bein Sports 12 English HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1447.ts
+#EXTINF:0 tvg-id="bein13hd.jsc" group-title="SPORTS-BEIN SPORTS",Bein Sports 13 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1448.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS-BEIN SPORTS",Bein Sports 14 HD (Match Days Only)
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1449.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS-BEIN SPORTS",Bein Sports 15 HD (Match Days Only)
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1450.ts
+#EXTINF:0 tvg-id="bein11hd.jsc" group-title="SPORTS-BEIN SPORTS",Bein Sports 11 SD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1451.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS-BEIN SPORTS",[CA] BEIN LaLiga HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1452.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS-BEIN SPORTS",TR:beIN SPORTS 1
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1453.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS-BEIN SPORTS",TR:beIN SPORTS 2
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1454.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS-BEIN SPORTS",TR:beIN SPORTS 3
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1455.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS-BEIN SPORTS",TR:beIN SPORTS 4
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1456.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS-BEIN SPORTS",US: Bein Sports USA
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1457.ts
+#EXTINF:0 tvg-id="BeinLaLiga.es" group-title="SPORTS-BEIN SPORTS",ES: BEIN LA LIGA
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1458.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS-BEIN SPORTS",ES: BEIN LA LIGA1
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1459.ts
+#EXTINF:0 tvg-id="beINSport1.fr" group-title="SPORTS-BEIN SPORTS",|FR| BEIN SPORT 1
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1460.ts
+#EXTINF:0 tvg-id="beINSport2.fr" group-title="SPORTS-BEIN SPORTS",|FR| BEIN SPORT 2
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1461.ts
+#EXTINF:0 tvg-id="beINSport3.fr" group-title="SPORTS-BEIN SPORTS",|FR| BEIN SPORT 3
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1462.ts
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - BOOKIES",Betfred TV
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/891.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - BOOKIES",Coral TV 1
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/892.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - BOOKIES",Coral TV 2
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/893.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - BOOKIES",Ladbrokes TV 1
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/894.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - BOOKIES",Ladbrokes TV 2
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/895.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - BOOKIES",Ladbrokes TV 3
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/896.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - BOOKIES",Paddy Power TV 1
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/897.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - BOOKIES",Paddy Power TV 2
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/898.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - BOOKIES",Paddy Power TV 3
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/899.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - BOOKIES",Racing.Com
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/900.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - BOOKIES",SIS One
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/901.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - BOOKIES",SIS Two
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/902.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - BOOKIES",SIS Racing
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/903.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - BOOKIES",William Hill TV2
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/904.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - BOOKIES",William Hill TV1
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/905.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - BOOKIES",William Hill BTV
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/906.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - BOOKIES",UK: SportyStuff TV FHD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2277.ts
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NBA",US ||  NBA 01 HD: 7PM Cleveland Cavaliers @ Philadelphia 76ers
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2358.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NBA",US ||  NBA 02 HD: 7PM Minnesota Timberwolves @ Washington Wizards
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2359.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NBA",US ||  NBA 03 HD: 8PM New Orleans Pelicans @ San Antonio Spurs
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2360.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NBA",US ||  NBA 04 HD: 8PM Indiana Pacers @ New York Knicks
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2361.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NBA",US ||  NBA 05 HD: 8PM Utah Jazz @ Orlando Magic
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2362.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NBA",US ||  NBA 06 HD: 8PM Denver Nuggets @ Oklahoma City Thunder
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2363.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NBA",US ||  NBA 07 HD: 8PM Atlanta Hawks @ Oklahoma City Thunder
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2364.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NBA",US ||  NBA 08 HD: 8PM Dallas Mavericks @ Brooklyn Nets
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2365.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NBA",US ||  NBA 09 HD:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2366.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NBA",US ||  NBA 10 HD:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2367.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NBA",US ||  NBA 11 HD:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2368.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NBA",US ||  NBA 12 HD:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2369.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NBA",US ||  NBA 13 HD:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2370.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NBA",US ||  NBA 14 HD:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2371.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NBA",US ||  NBA 15 HD:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2372.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NBA",US ||  NBA 16 HD:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2373.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NBA",US ||  NBA 17 HD:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2374.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NBA",US NBA TV (HD)
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2375.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NBA",US NBA TV (FHD)
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2376.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NBA",US NBA TV SD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2377.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NBA",CA:NBA TV Canada
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2378.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NBA",Utah Jazz
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2379.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NBA",Washington Wizards
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2380.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NBA",Oklahoma City Thunder
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2381.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NBA",Orlando Magic
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2382.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NBA",Philadelphia 76ers
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2383.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NBA",Phoenix Suns
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2384.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NBA",Portland Trail Blazers
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2385.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NBA",Sacramento Kings
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2386.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NBA",San Antonio Spurs
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2387.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NBA",Indiana Pacers
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2388.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NBA",Los Angeles Clippers
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2389.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NBA",Los Angeles Lakers
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2390.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NBA",Memphis Grizzlies
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2391.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NBA",Miami Heat
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2392.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NBA",Milwaukee Bucks
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2393.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NBA",Minnesota Timberwolves
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2394.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NBA",New Orleans Pelicans
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2395.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NBA",New York Knicks
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2396.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NBA",Atlanta Hawks
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2397.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NBA",Boston Celtics
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2398.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NBA",Brooklyn Nets
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2399.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NBA",Charlotte Hornets
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2400.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NBA",Chicago Bulls
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2401.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NBA",Cleveland Cavaliers
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2402.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NBA",Dallas Mavericks
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2403.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NBA",Denver Nuggets
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2404.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NBA",Detroit Pistons
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2405.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NBA",Golden State Warriors
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2406.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NBA",Houston Rockets
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2407.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - NBA",NBA Toronto Raptors
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2408.ts
+#EXTINF:0 tvg-id="NBA.blt" group-title="SPORTS - NBA",NBA
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2409.ts
+#EXTINF:0 tvg-id="NBA.blt" group-title="SPORTS - NBA",NBA
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2410.ts
+#EXTINF:0 tvg-id="NBA.blt" group-title="SPORTS - NBA",NBA
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2411.ts
+#EXTINF:0 tvg-id="NBA.blt" group-title="SPORTS - NBA",NBA
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2412.ts
+#EXTINF:0 tvg-id="NBA.blt" group-title="SPORTS - NBA",NBA
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2413.ts
+#EXTINF:0 tvg-id="NBA.blt" group-title="SPORTS - NBA",NBA
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2414.ts
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EVENTS",EVENTS 01: NASCAR: 4.30PM Contender Boats 250
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1017.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EVENTS",EVENTS 02: PDC DARTS 1: 2PM Super Series 1
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1018.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EVENTS",EVENTS 03: PDC DARTS 2: 2PM Super Series 1
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1019.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EVENTS",EVENTS 04: 5PM PRELIMS and MAIN UFC Fight Night: Fight Night Rozenstruik v Ciryl Gane
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1020.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EVENTS",EVENTS 05: 5PM PRELIMS and MAIN UFC Fight Night: Fight Night Rozenstruik v Ciryl Gane
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1021.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EVENTS",EVENTS 06: 8PM UFC Fight Night Rozenstruik v Ciryl Gane
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1022.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EVENTS",EVENTS 07: 8PM UFC Fight Night Rozenstruik v Ciryl Gane SD SD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1023.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EVENTS",EVENTS 08: 2:30PM Cacace v Woodstock
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1024.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EVENTS",EVENTS 09: (2.28) 12:30AM RISE Eldorado Tenshin v Shiro 2
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1025.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EVENTS",EVENTS 10: 7PM Canelo v Yildirim
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1026.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EVENTS",EVENTS 11: 7PM Canelo v Yildirim SD SD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1027.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EVENTS",EVENTS 12: 8PM PBC Dirrell v Davis
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1028.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EVENTS",EVENTS 13: 9PM DAngelo & Friends
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1029.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EVENTS",EVENTS 14: 12AM NZ Midget Champs Round 1
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1030.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EVENTS",EVENTS 15: 3AM Urban Fight Night 24
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1031.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EVENTS",EVENTS 16: 4AM PWA Just Happy to be Here
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1032.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EVENTS",EVENTS 17: 9AM Kunkabayev v Emurlaiev
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1033.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EVENTS",EVENTS 18: 10AM Lights Out 12
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1034.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EVENTS",EVENTS 19: 11AM Senshi 7 Menkovic v Braun
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1035.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EVENTS",EVENTS 20: 11AM Kicker AMA Arenacross
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1036.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EVENTS",EVENTS 21: 2:20PM DiscGolf Las Vegas Challenge
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1037.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EVENTS",EVENTS 22: 2PM Icebreaker Sprint Cars
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1038.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EVENTS",EVENTS 23: 2:55PM Tucson Speedway Chilly Willy Day 2 SLM
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1039.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EVENTS",EVENTS 24: 3PM Hoosier Arenacross World Championship
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1040.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EVENTS",EVENTS 25: 3PM Midwest WinterNationals Sprint Cars
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1041.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EVENTS",EVENTS 26: 4PM Drydene Xtreme DIRTcar Series
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1042.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EVENTS",EVENTS 27: 4PM Clash at the Coliseum Winter Race Series 5
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1043.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EVENTS",EVENTS 28: 5PM North Carolina SpeedWeek
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1044.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EVENTS",EVENTS 29: 5PM Undisputed Promotions Showtime
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1045.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EVENTS",EVENTS 30: 5PM IMCA Modified Winter Race 3
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1046.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EVENTS",EVENTS 31: 6PM Edwardo Nunez v Guillermo Avila
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1047.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EVENTS",EVENTS 32: 7PM North Charleston PWVT Championship Rnd
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1048.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EVENTS",EVENTS 33: 8PM Blunt Force Trauma 2
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1049.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EVENTS",EVENTS 34: 7PM Super LM Triple Crown
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1050.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EVENTS",EVENTS 35: 8:30PM Dynasty Combat Sports Kearney Cage War
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1051.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EVENTS",EVENTS 36: 9PM Forth Worth UTB Championship Rnd
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1052.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EVENTS",EVENTS 37: 11PM NZ Midget Champs Round 2
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1053.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EVENTS",EVENTS 38: 3PM Quaise Khademi vs. Ijaz Ahmed
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1054.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EVENTS",EVENTS 39:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1055.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EVENTS",EVENTS 40:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1056.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EVENTS",EVENTS 41:
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1057.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EVENTS",EVENTS 42
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1058.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EVENTS",EVENTS 43
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1059.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EVENTS",EVENTS 44
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1060.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EVENTS",EVENTS 45
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1061.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EVENTS",EVENTS 46
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1062.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EVENTS",EVENTS 47
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1063.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EVENTS",EVENTS 48
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1064.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EVENTS",EVENTS 49
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1065.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EVENTS",EVENTS 50
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1066.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EVENTS",EVENTS 51
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1067.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EVENTS",EVENTS 52
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1068.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EVENTS",EVENTS 53
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1069.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EVENTS",EVENTS 54
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1070.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EVENTS",EVENTS 55
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1071.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EVENTS",EVENTS 56
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1072.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EVENTS",EVENTS 57
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1073.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EVENTS",EVENTS 58
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1074.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EVENTS",EVENTS 59
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1075.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EVENTS",EVENTS 60
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1076.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EVENTS",EVENTS 61
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1077.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EVENTS",EVENTS 62
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1078.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EVENTS",EVENTS 63
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1079.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EVENTS",EVENTS 64
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1080.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EVENTS",EVENTS 65
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1081.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EVENTS",EVENTS 66
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1082.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EVENTS",EVENTS 67
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1083.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EVENTS",EVENTS 68
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1084.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EVENTS",EVENTS 69
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1085.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EVENTS",EVENTS 70
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1086.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EVENTS",EVENTS 71
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1087.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EVENTS",EVENTS 72
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1088.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EVENTS",EVENTS 73
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1089.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EVENTS",EVENTS 74
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1090.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EVENTS",EVENTS 75
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1091.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EVENTS",EVENTS 76
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1092.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EVENTS",EVENTS 77
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1093.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EVENTS",EVENTS 78
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1094.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EVENTS",EVENTS 79
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1095.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EVENTS",EVENTS 80
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1096.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EVENTS",EVENTS 81
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1097.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EVENTS",EVENTS 82
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1098.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EVENTS",EVENTS 83
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1099.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EVENTS",EVENTS 84
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1100.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EVENTS",EVENTS 85
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1101.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EVENTS",EVENTS 86
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1102.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EVENTS",EVENTS 87
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1103.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EVENTS",EVENTS 88
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1104.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EVENTS",EVENTS 89
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1105.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EVENTS",EVENTS 90
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1106.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EVENTS",EVENTS 91
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1107.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EVENTS",EVENTS 92
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1108.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EVENTS",EVENTS 93
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1109.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EVENTS",EVENTS 94
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1110.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EVENTS",EVENTS 95
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1111.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EVENTS",EVENTS 96
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1112.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EVENTS",EVENTS 97
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1113.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EVENTS",EVENTS 98
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1114.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EVENTS",EVENTS 99
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1115.ts
+#EXTINF:0 tvg-id="ext" group-title="SPORTS - EVENTS",EVENTS 100
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1116.ts
+
